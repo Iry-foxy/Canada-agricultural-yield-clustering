@@ -7,8 +7,8 @@ The study uses dimensionality reduction and clustering to uncover latent regiona
 
 Three distinct agricultural regions emerged from PCA-based clustering:
 
-Western Canada
-Eastern Canada
+Western Canada, 
+Eastern Canada and
 Manitoba
 
 Each region demonstrates unique climatic and yield stability characteristics that directly influence predictive performance.
